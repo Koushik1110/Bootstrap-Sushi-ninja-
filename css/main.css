@@ -98,6 +98,10 @@ section {
   object-fit: cover;
 }
 
+.card-body {
+  height: 25rem;
+}
+
 /* FEATURES */
 .features {
   background: linear-gradient(to top, rgba(0, 0, 0, 0.75), transparent),
